@@ -1,1 +1,1 @@
-﻿document.write( '<div style=\"width: 100%; height: 100px; display: block; position: absolute; top: 0px; left: 0px;font-size: 6pt; font-weight: bold;\">1111</div>' );
+﻿document.write( '<div style=\"width: 100%; height: 100px; display: block; position: absolute; top: 0px; z-index:9999; left: 0px;font-size: 6pt; font-weight: bold;\">1111</div>' );
