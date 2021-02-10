@@ -1,3 +1,15 @@
 ﻿.adsbygoogle {
 	display:none!important;
-} 
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .hidden-sm {
+    display: none !important;
+  }
+  .logo-tel {
+	display: none!important;
+}
+
+.logo2, .main-menu, .navbar, .navbar-default {
+	display:none!important;
+}
+
