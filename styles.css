@@ -9,7 +9,9 @@
 	display: none!important;
 }
 
-.logo2 {
+.widget {
 	display:none!important;
 }
-
+.ai_widget {
+	display:none!important;
+}
