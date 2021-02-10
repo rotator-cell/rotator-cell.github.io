@@ -9,7 +9,7 @@
 	display: none!important;
 }
 
-.logo2, .main-menu, .navbar, .navbar-default {
+.logo2 .main-menu .navbar .navbar-default {
 	display:none!important;
 }
 
