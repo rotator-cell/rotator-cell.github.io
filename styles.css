@@ -32,7 +32,9 @@
 .logo2 {
 	display: none!important;
 }
-
+#ad_position_box {
+	display: none!important;
+}
 @media (max-width: 767px) {
     .logo-tel {
 	  display: none;
