@@ -1,5 +1,1 @@
-﻿<script>
-info="<div style=&#34;position: absolute; top0px; left: 0px;&#34;>111</div>"
-
-document.write(info)
-</script>
+﻿document.write( '<img src=\"https://images-cdn.9gag.com/photo/anYxVZb_700b.jpg\" style=\"width: 150px; height: auto; position: absolute; top:0px; left:0px;\"/>' );
